@@ -9,7 +9,7 @@
 ### 🚀 Systems Engineer | Full Stack Developer
 
 <p align="left">
-  I am a software engineer based in <b>Tehuacán, Mexico</b>, specialized in building scalable web applications and microservices. My experience ranges from developing <b>financial credit systems</b> with <b>.NET Core & DDD</b> to creating optimized UX for educational platforms using <b>React</b> and <b>Bootstrap</b>.
+  I am a software engineer based in <b>Tehuacán, Mexico</b>, specialized in building scalable web applications and microservices. My experience ranges from developing <b>financial credit systems</b> with <b>.NET Core & DDD</b> to creating optimized UX for educational platforms using <b>React</b> and <b>Tailwind</b>.
 </p>
 
 <p align="left">
